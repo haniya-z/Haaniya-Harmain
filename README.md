@@ -1,30 +1,30 @@
-## ⚡ hey, i’m Haaniya  
+## ⚡ Hey, I’m Haniya  
 
-> building things that feel a little more human ✨  
+> Building things that feel a little more human ✨  
 
-i’m a developer focused on **ai-driven products + full stack systems**.  
-i don’t just code — i build ideas into real, usable experiences.  
+I’m a developer focused on **AI-driven products + full-stack systems**.  
+I don’t just code — I build ideas into real, usable experiences.  
 
-### 🚀 current focus  
-- 🧠 building **Orlese** — an AI assistant designed for real human-like interaction  
-- ⚙️ exploring **machine learning & decision systems**  
-- 📊 strengthening **DSA + problem solving** for top-tier engineering roles  
+### 🚀 Current Focus  
+- 🧠 Building **Orlese** — an AI assistant designed for real human-like interaction  
+- ⚙️ Exploring **Machine Learning & Decision Systems**  
+- 📊 Strengthening **DSA + Problem Solving** for top-tier engineering roles  
 
-### 🛠 tech stack  
-**languages:** python, javascript  
-**frontend:** react, html, css  
-**backend:** flask, fastapi, node.js  
-**database:** firebase, mongodb  
+### 🛠 Tech Stack  
+**Languages:** Python, JavaScript  
+**Frontend:** React, HTML, CSS  
+**Backend:** Flask, FastAPI, Node.js  
+**Database:** Firebase, MongoDB  
 
-### 🌱 approach  
-i believe in:
-- learning by building, not collecting certificates  
-- creating tech that solves real problems  
-- consistency over perfection  
+### 🌱 Approach  
+I believe in:  
+- Learning by building, not collecting certificates  
+- Creating tech that solves real problems  
+- Consistency over perfection  
 
-### 🎯 goals  
-- build impactful AI products  
-- grow my startup from 0 → real users    
+### 🎯 Goals  
+- Build impactful AI products  
+- Grow my startup from 0 → real users 
 ---
 
-⭐ *not there yet, but building every single day*
+⭐ *Not there yet, but building every single day*
