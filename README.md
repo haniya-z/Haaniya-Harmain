@@ -25,7 +25,7 @@ I believe in:
 ### 🎯 Goals  
 - Build impactful AI products  
 - Grow my startup from 0 → real users 
----
-[![GitHub Streak](https://github-readme-streak-stats-eosin-one.vercel.app?user=haniya-z)](https://git.io/streak-stats)
 
 ⭐ *Not there yet, but building every single day*
+
+![GitHub Streak](https://streak-stats.demolab.com?user=haniya-z)
