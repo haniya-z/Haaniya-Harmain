@@ -28,4 +28,4 @@ I believe in:
 
 ⭐ *Not there yet, but building every single day*
 
-![GitHub Streak](https://streak-stats.demolab.com?user=haniya-z)
+![GitHub Streak](https://streak-stats.demolab.com?user=haniya-z&theme=dark)
